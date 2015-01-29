@@ -1,4 +1,6 @@
-
+Gateway:188.138.157.1
+Primary DNS:87.248.160.5
+Secondary DNS:89.28.1.1
 test sda
 #!/usr/bin/python
 
